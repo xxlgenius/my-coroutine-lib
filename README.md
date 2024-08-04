@@ -1,2 +1,2 @@
-# my-coroutine-lib
-my-coroutine-lib
+# chat-server
+A CPP chat server
